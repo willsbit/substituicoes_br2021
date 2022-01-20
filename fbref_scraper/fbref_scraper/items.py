@@ -6,7 +6,7 @@
 import scrapy
 
 
-class LivescoreScraperItem(scrapy.Item):
+class FbrefScraperItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass

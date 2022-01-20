@@ -8,6 +8,6 @@
 from itemadapter import ItemAdapter
 
 
-class LivescoreScraperPipeline:
+class FbrefScraperPipeline:
     def process_item(self, item, spider):
         return item
