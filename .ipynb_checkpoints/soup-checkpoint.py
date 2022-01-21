@@ -44,7 +44,7 @@ def stats_jogos(links_relatorios):
         res = requests.get(url)
         soup = BeautifulSoup(res.text, 'html.parser')
         gols = list(g.text for g in soup.find_all("div", class_="score"))
-        tecnicos = list(t.text.replace('Técnico: ', '') for t in soup.find_all("div", class_="datapoint"))
+        tecnicos = list(t.text.replace("Técnico: , ''") for t in soup.find_all("div", class_="datapoint"))
         subs = list(s.text.replace('para ', '') for s in soup.select('small:contains("para ")'))
         # print(subs)
         return soup, gols, tecnicos, subs
@@ -85,13 +85,13 @@ def escalacao_fora(soup, gols, tecnicos, subs):
 
         subs_fora = [sub for sub in subs if sub in jogadores_fora_temp]
 
+
         # print(f'{time_fora} {gols_fora}')
         # print(f'{tecnico_fora} - escalação: {onze_fora}')
         # print(banco_fora)
         # print(f'Substitutos que entraram: {subs_fora}')
 
         return time_fora, tecnico_fora, gols_fora, onze_fora, banco_fora, subs_fora
-
 
 def substituicoes(subs_casa):
     subs_list = []
@@ -100,6 +100,7 @@ def substituicoes(subs_casa):
         subs_list.append(subs_list_text)
         # subs_dict = {subs_list[i]: subs_list[i + 1] for i in range(0, len(subs_list), 2)}
 
+    # print(subs_list)
     subs_dict = {}
     for idx, i in enumerate(subs_list):
         # print(idx, i)
@@ -112,6 +113,7 @@ def substituicoes(subs_casa):
             continue
         except IndexError:
             break
+    # print(subs_dict)
 
     subs_dict_casa = {}
     subs_dict_fora = {}
@@ -122,49 +124,7 @@ def substituicoes(subs_casa):
             subs_dict_fora[sub] = subs_dict.get(str(sub))
     # print(subs_dict_casa)
     # print(subs_dict_fora)
-    return subs_dict_casa, subs_dict_fora, subs_list
-
-
-def tempo_subs_casa(subs_dict_casa, subs_list):
-    sub1_casa = []
-    sub2_casa = []
-    sub3_casa = []
-    sub4_casa = []
-    sub5_casa = []
-
-    for idx, i in list(enumerate(subs_dict_casa.items())):
-        if idx == 0:
-            sub1_casa.append(i)
-        elif idx == 1:
-            sub2_casa.append(i)
-        elif idx == 2:
-            sub3_casa.append(i)
-        elif idx == 3:
-            sub4_casa.append(i)
-        elif idx == 4:
-            sub5_casa.append(i)
-    return sub1_casa, sub2_casa, sub3_casa, sub4_casa, sub5_casa
-
-
-def tempo_subs_fora(subs_dict_fora, subs_list):
-    sub1_fora = []
-    sub2_fora = []
-    sub3_fora = []
-    sub4_fora = []
-    sub5_fora = []
-
-    for idx, i in list(enumerate(subs_dict_fora.items())):
-        if idx == 0:
-            sub1_fora.append(i)
-        elif idx == 1:
-            sub2_fora.append(i)
-        elif idx == 2:
-            sub3_fora.append(i)
-        elif idx == 3:
-            sub4_fora.append(i)
-        elif idx == 4:
-            sub5_fora.append(i)
-    return sub1_fora, sub2_fora, sub3_fora, sub4_fora, sub5_fora
+    return subs_dict_casa, subs_dict_fora
 
 
 teste_cuiaba_bahia = ['https://fbref.com//pt/partidas/6df78309/Cuiaba-Juventude-2021Maio29-Serie-A']
@@ -173,7 +133,6 @@ soup, gols, tecnicos, subs = stats_jogos(teste_cuiaba_bahia)
 time_casa, tecnico_casa, gols_casa, onze_casa, banco_casa, subs_casa = escalacao_casa(soup, gols, tecnicos, subs)
 time_fora, tecnico_fora, gols_fora, onze_fora, banco_fora, subs_fora = escalacao_fora(soup, gols, tecnicos, subs)
 
-subs_dict_casa, subs_dict_fora, subs_list = substituicoes(subs_casa)
+subs_dict_casa, subs_dict_fora = substituicoes(subs_casa)
 
-tempo_subs_casa(subs_dict_casa, subs_list)
-tempo_subs_fora(subs_dict_fora, subs_list)
+
