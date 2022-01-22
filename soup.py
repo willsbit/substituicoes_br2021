@@ -120,17 +120,16 @@ def substituicoes(subs_casa):
 
     subs_dict_casa = {}
     subs_dict_fora = {}
-    for sub in list(subs_dict.keys()):
-        if sub in subs_casa:
-            subs_dict_casa[sub] = subs_dict.get(str(sub))
-        else:
-            subs_dict_fora[sub] = subs_dict.get(str(sub))
-    # print(subs_dict_casa)
-    # print(subs_dict_fora)
+
+    for sub in subs_casa:
+        subs_dict_casa[sub] = subs_dict.get(str(sub))
+    for sub in subs_fora:
+        subs_dict_fora[sub] = subs_dict.get(str(sub))
+
     return subs_dict_casa, subs_dict_fora, subs_list
 
 
-def tempo_subs_casa(subs_dict_casa, subs_list):
+def tempo_subs_casa(subs_casa, subs_dict_casa, subs_list):
     sub1_casa = []
     sub2_casa = []
     sub3_casa = []
@@ -174,7 +173,7 @@ def tempo_subs_casa(subs_dict_casa, subs_list):
            sub1_casa_tempo, sub2_casa_tempo, sub3_casa_tempo, sub4_casa_tempo, sub5_casa_tempo
 
 
-def tempo_subs_fora(subs_dict_fora, subs_list):
+def tempo_subs_fora(subs_fora, subs_dict_fora, subs_list):
     sub1_fora = []
     sub2_fora = []
     sub3_fora = []
@@ -204,6 +203,7 @@ def tempo_subs_fora(subs_dict_fora, subs_list):
             continue
         except IndexError:
             break
+
     sub1_fora_tempo, sub2_fora_tempo, sub3_fora_tempo, sub4_fora_tempo, sub5_fora_tempo = [], [], [], [], []
     try:
         sub1_fora_tempo = sorted(tempo_subs)[0]
@@ -224,7 +224,21 @@ soup, gols, tecnicos, subs = stats_jogos(teste_cuiaba_bahia)
 time_casa, tecnico_casa, gols_casa, onze_casa, banco_casa, subs_casa = escalacao_casa(soup, gols, tecnicos, subs)
 time_fora, tecnico_fora, gols_fora, onze_fora, banco_fora, subs_fora = escalacao_fora(soup, gols, tecnicos, subs)
 
+
 subs_dict_casa, subs_dict_fora, subs_list = substituicoes(subs_casa)
 
-sub1_casa, sub2_casa, sub3_casa, sub4_casa, sub5_casa, sub1_casa_tempo, sub2_casa_tempo, sub3_casa_tempo, sub4_casa_tempo, sub5_casa_tempo = tempo_subs_casa(subs_dict_casa, subs_list)
-sub1_fora, sub2_fora, sub3_fora, sub4_fora, sub5_fora, sub1_fora_tempo, sub2_fora_tempo, sub3_fora_tempo, sub4_fora_tempo, sub5_fora_tempo = tempo_subs_fora(subs_dict_fora, subs_list)
+sub1_casa, sub2_casa, sub3_casa, sub4_casa, sub5_casa, sub1_casa_tempo, sub2_casa_tempo, sub3_casa_tempo, sub4_casa_tempo, sub5_casa_tempo = tempo_subs_casa(subs_casa, subs_dict_casa, subs_list)
+sub1_fora, sub2_fora, sub3_fora, sub4_fora, sub5_fora, sub1_fora_tempo, sub2_fora_tempo, sub3_fora_tempo, sub4_fora_tempo, sub5_fora_tempo = tempo_subs_fora(subs_fora, subs_dict_fora, subs_list)
+
+
+sub1_casa = {k: v for k, v in enumerate(sub1_casa)}
+sub2_casa = {k: v for k, v in enumerate(sub2_casa)}
+sub3_casa = {k: v for k, v in enumerate(sub3_casa)}
+sub4_casa = {k: v for k, v in enumerate(sub4_casa)}
+sub5_casa = {k: v for k, v in enumerate(sub5_casa)}
+
+sub1_fora = {k: v for k, v in enumerate(sub1_fora)}
+sub2_fora = {k: v for k, v in enumerate(sub2_fora)}
+sub3_fora = {k: v for k, v in enumerate(sub3_fora)}
+sub4_fora = {k: v for k, v in enumerate(sub4_fora)}
+sub5_fora = {k: v for k, v in enumerate(sub5_fora)}
