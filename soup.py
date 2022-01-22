@@ -106,6 +106,11 @@ def substituicoes(subs_casa):
         try:
             if int(subs_list.__getitem__(idx)) + int(subs_list.__getitem__(idx + 2)) == 90:
                 subs_dict[subs_list[idx - 1]] = subs_list[idx + 1]
+                # adicionar caso de substituição da substituição (soma das 3 minutagens == 90)
+                # exemplo: juan mata vs leicester 2016 (utd 2 - lcf)
+            elif int(subs_list.__getitem__(idx)) + int(subs_list.__getitem__(idx + 2)) + int(subs_list.__getitem__(idx + 4)) == 90:
+                subs_dict[subs_list[idx - 1]] = subs_list[idx + 1]
+                subs_dict[subs_list[idx + 1]] = subs_list[idx + 3]
         except TypeError:
             continue
         except ValueError:
@@ -221,5 +226,5 @@ time_fora, tecnico_fora, gols_fora, onze_fora, banco_fora, subs_fora = escalacao
 
 subs_dict_casa, subs_dict_fora, subs_list = substituicoes(subs_casa)
 
-tempo_subs_casa(subs_dict_casa, subs_list)
-tempo_subs_fora(subs_dict_fora, subs_list)
+sub1_casa, sub2_casa, sub3_casa, sub4_casa, sub5_casa, sub1_casa_tempo, sub2_casa_tempo, sub3_casa_tempo, sub4_casa_tempo, sub5_casa_tempo = tempo_subs_casa(subs_dict_casa, subs_list)
+sub1_fora, sub2_fora, sub3_fora, sub4_fora, sub5_fora, sub1_fora_tempo, sub2_fora_tempo, sub3_fora_tempo, sub4_fora_tempo, sub5_fora_tempo = tempo_subs_fora(subs_dict_fora, subs_list)
