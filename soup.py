@@ -143,7 +143,30 @@ def tempo_subs_casa(subs_dict_casa, subs_list):
             sub4_casa.append(i)
         elif idx == 4:
             sub5_casa.append(i)
-    return sub1_casa, sub2_casa, sub3_casa, sub4_casa, sub5_casa
+
+    tempo_subs = []
+    for idx, i in enumerate(subs_list):
+        try:
+            if i in subs_dict_casa.keys():
+                tempo_subs.append(int(subs_list.__getitem__(idx + 1)))
+        except TypeError:
+            continue
+        except ValueError:
+            continue
+        except IndexError:
+            break
+    sub1_casa_tempo, sub2_casa_tempo, sub3_casa_tempo, sub4_casa_tempo, sub5_casa_tempo = [], [], [], [], []
+    try:
+        sub1_casa_tempo = sorted(tempo_subs)[0]
+        sub2_casa_tempo = sorted(tempo_subs)[1]
+        sub3_casa_tempo = sorted(tempo_subs)[2]
+        sub4_casa_tempo = sorted(tempo_subs)[3]
+        sub5_casa_tempo = sorted(tempo_subs)[4]
+    except IndexError:
+        None
+
+    return sub1_casa, sub2_casa, sub3_casa, sub4_casa, sub5_casa, \
+           sub1_casa_tempo, sub2_casa_tempo, sub3_casa_tempo, sub4_casa_tempo, sub5_casa_tempo
 
 
 def tempo_subs_fora(subs_dict_fora, subs_list):
@@ -164,7 +187,30 @@ def tempo_subs_fora(subs_dict_fora, subs_list):
             sub4_fora.append(i)
         elif idx == 4:
             sub5_fora.append(i)
-    return sub1_fora, sub2_fora, sub3_fora, sub4_fora, sub5_fora
+
+    tempo_subs = []
+    for idx, i in enumerate(subs_list):
+        try:
+            if i in subs_dict_fora.keys():
+                tempo_subs.append(int(subs_list.__getitem__(idx + 1)))
+        except TypeError:
+            continue
+        except ValueError:
+            continue
+        except IndexError:
+            break
+    sub1_fora_tempo, sub2_fora_tempo, sub3_fora_tempo, sub4_fora_tempo, sub5_fora_tempo = [], [], [], [], []
+    try:
+        sub1_fora_tempo = sorted(tempo_subs)[0]
+        sub2_fora_tempo = sorted(tempo_subs)[1]
+        sub3_fora_tempo = sorted(tempo_subs)[2]
+        sub4_fora_tempo = sorted(tempo_subs)[3]
+        sub5_fora_tempo = sorted(tempo_subs)[4]
+    except IndexError:
+        None
+
+    return sub1_fora, sub2_fora, sub3_fora, sub4_fora, sub5_fora, \
+           sub1_fora_tempo, sub2_fora_tempo, sub3_fora_tempo, sub4_fora_tempo, sub5_fora_tempo
 
 
 teste_cuiaba_bahia = ['https://fbref.com//pt/partidas/6df78309/Cuiaba-Juventude-2021Maio29-Serie-A']
