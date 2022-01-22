@@ -40,14 +40,13 @@ links_relatorios = list(map(lambda x: str.replace(x, "\">Relatório da Partida</
 # enumarate(links_relatorios)
 
 def stats_jogos(links_relatorios):
-    for idx, url in enumerate(links_relatorios):
-        res = requests.get(url)
-        soup = BeautifulSoup(res.text, 'html.parser')
-        gols = list(g.text for g in soup.find_all("div", class_="score"))
-        tecnicos = list(t.text.replace('Técnico: ', '') for t in soup.find_all("div", class_="datapoint"))
-        subs = list(s.text.replace('para ', '') for s in soup.select('small:contains("para ")'))
-        # print(subs)
-        return soup, gols, tecnicos, subs
+    res = requests.get(links_relatorios)
+    soup = BeautifulSoup(res.text, 'html.parser')
+    gols = list(g.text for g in soup.find_all("div", class_="score"))
+    tecnicos = list(t.text.replace('Técnico: ', '') for t in soup.find_all("div", class_="datapoint"))
+    subs = list(s.text.replace('para ', '') for s in soup.select('small:contains("para ")'))
+    # print(subs)
+    return soup, gols, tecnicos, subs
 
 
 def escalacao_casa(soup, gols, tecnicos, subs):
@@ -108,7 +107,8 @@ def substituicoes(subs_casa):
                 subs_dict[subs_list[idx - 1]] = subs_list[idx + 1]
                 # adicionar caso de substituição da substituição (soma das 3 minutagens == 90)
                 # exemplo: juan mata vs leicester 2016 (utd 2 - lcf)
-            elif int(subs_list.__getitem__(idx)) + int(subs_list.__getitem__(idx + 2)) + int(subs_list.__getitem__(idx + 4)) == 90:
+            elif int(subs_list.__getitem__(idx)) + int(subs_list.__getitem__(idx + 2)) + int(
+                    subs_list.__getitem__(idx + 4)) == 90:
                 subs_dict[subs_list[idx - 1]] = subs_list[idx + 1]
                 subs_dict[subs_list[idx + 1]] = subs_list[idx + 3]
         except TypeError:
@@ -218,27 +218,71 @@ def tempo_subs_fora(subs_fora, subs_dict_fora, subs_list):
            sub1_fora_tempo, sub2_fora_tempo, sub3_fora_tempo, sub4_fora_tempo, sub5_fora_tempo
 
 
-teste_cuiaba_bahia = ['https://fbref.com//pt/partidas/6df78309/Cuiaba-Juventude-2021Maio29-Serie-A']
-soup, gols, tecnicos, subs = stats_jogos(teste_cuiaba_bahia)
+# # teste_cuiaba_bahia = ['https://fbref.com//pt/partidas/6df78309/Cuiaba-Juventude-2021Maio29-Serie-A']
+for idx, url in list(enumerate(links_relatorios)):
+    soup, gols, tecnicos, subs = stats_jogos(url)
 
-time_casa, tecnico_casa, gols_casa, onze_casa, banco_casa, subs_casa = escalacao_casa(soup, gols, tecnicos, subs)
-time_fora, tecnico_fora, gols_fora, onze_fora, banco_fora, subs_fora = escalacao_fora(soup, gols, tecnicos, subs)
+    time_casa, tecnico_casa, gols_casa, onze_casa, banco_casa, subs_casa = escalacao_casa(soup, gols, tecnicos, subs)
+    time_fora, tecnico_fora, gols_fora, onze_fora, banco_fora, subs_fora = escalacao_fora(soup, gols, tecnicos, subs)
 
+    subs_dict_casa, subs_dict_fora, subs_list = substituicoes(subs_casa)
 
-subs_dict_casa, subs_dict_fora, subs_list = substituicoes(subs_casa)
+    sub1_casa, sub2_casa, sub3_casa, sub4_casa, sub5_casa, sub1_casa_tempo, sub2_casa_tempo, sub3_casa_tempo, sub4_casa_tempo, sub5_casa_tempo = tempo_subs_casa(
+        subs_casa, subs_dict_casa, subs_list)
+    sub1_fora, sub2_fora, sub3_fora, sub4_fora, sub5_fora, sub1_fora_tempo, sub2_fora_tempo, sub3_fora_tempo, sub4_fora_tempo, sub5_fora_tempo = tempo_subs_fora(
+        subs_fora, subs_dict_fora, subs_list)
 
-sub1_casa, sub2_casa, sub3_casa, sub4_casa, sub5_casa, sub1_casa_tempo, sub2_casa_tempo, sub3_casa_tempo, sub4_casa_tempo, sub5_casa_tempo = tempo_subs_casa(subs_casa, subs_dict_casa, subs_list)
-sub1_fora, sub2_fora, sub3_fora, sub4_fora, sub5_fora, sub1_fora_tempo, sub2_fora_tempo, sub3_fora_tempo, sub4_fora_tempo, sub5_fora_tempo = tempo_subs_fora(subs_fora, subs_dict_fora, subs_list)
+    sub1_casa = {k: v for k, v in enumerate(sub1_casa)}
+    sub2_casa = {k: v for k, v in enumerate(sub2_casa)}
+    sub3_casa = {k: v for k, v in enumerate(sub3_casa)}
+    sub4_casa = {k: v for k, v in enumerate(sub4_casa)}
+    sub5_casa = {k: v for k, v in enumerate(sub5_casa)}
 
+    sub1_fora = {k: v for k, v in enumerate(sub1_fora)}
+    sub2_fora = {k: v for k, v in enumerate(sub2_fora)}
+    sub3_fora = {k: v for k, v in enumerate(sub3_fora)}
+    sub4_fora = {k: v for k, v in enumerate(sub4_fora)}
+    sub5_fora = {k: v for k, v in enumerate(sub5_fora)}
 
-sub1_casa = {k: v for k, v in enumerate(sub1_casa)}
-sub2_casa = {k: v for k, v in enumerate(sub2_casa)}
-sub3_casa = {k: v for k, v in enumerate(sub3_casa)}
-sub4_casa = {k: v for k, v in enumerate(sub4_casa)}
-sub5_casa = {k: v for k, v in enumerate(sub5_casa)}
+    if idx == 0:
+        dfs = pd.DataFrame([[time_casa.values(), tecnico_casa.values(), time_fora.values(), tecnico_fora.values(),
+                             gols_casa.values(), gols_fora.values(),
+                             onze_casa.values(), onze_fora.values(), banco_casa.values(), banco_fora.values(),
+                             sub1_casa.values(), sub1_casa_tempo, sub2_casa.values(), sub2_casa_tempo,
+                             sub3_casa.values(),
+                             sub3_casa_tempo,
+                             sub4_casa.values(), sub4_casa_tempo, sub5_casa.values(), sub5_casa_tempo,
+                             sub1_fora.values(), sub1_fora_tempo, sub2_fora.values(), sub2_fora_tempo,
+                             sub3_fora.values(), sub3_fora_tempo, sub4_fora.values(), sub4_fora_tempo,
+                             sub5_fora.values(), sub5_fora_tempo]])
 
-sub1_fora = {k: v for k, v in enumerate(sub1_fora)}
-sub2_fora = {k: v for k, v in enumerate(sub2_fora)}
-sub3_fora = {k: v for k, v in enumerate(sub3_fora)}
-sub4_fora = {k: v for k, v in enumerate(sub4_fora)}
-sub5_fora = {k: v for k, v in enumerate(sub5_fora)}
+        cols = {'columns': {0: 'time_casa', 1: 'tecnico_casa', 2: 'time_fora', 3: 'tecnico_fora', 4: 'gols_casa',
+                            5: 'gols_fora',
+                            6: '11_casa', 7: '11_fora', 8: 'banco_casa', 9: 'banco_fora', 10: 'sub1_casa',
+                            11: 'sub1_casa_tempo', 12: 'sub2_casa', 13: 'sub2_casa_tempo', 14: 'sub3_casa',
+                            15: 'sub3_casa_tempo', 16: 'sub4_casa',
+                            17: 'sub4_casa_tempo', 18: 'sub5_casa', 19: 'sub5_casa_tempo',
+                            20: 'sub1_fora', 21: 'sub1_fora_tempo', 22: 'sub2_fora', 23: 'sub2_fora_tempo',
+                            24: 'sub3_fora',
+                            25: 'sub3_fora_tempo', 26: 'sub4_fora', 27: 'sub4_fora_tempo', 28: 'sub5_fora',
+                            29: 'sub5_fora_tempo'}}
+
+        dfs.reset_index(drop=True).rename(**cols)
+
+    else:
+        dfs_i = pd.DataFrame([[time_casa.values(), tecnico_casa.values(), time_fora.values(), tecnico_fora.values(),
+                               gols_casa.values(), gols_fora.values(),
+                               onze_casa.values(), onze_fora.values(), banco_casa.values(), banco_fora.values(),
+                               sub1_casa.values(), sub1_casa_tempo, sub2_casa.values(), sub2_casa_tempo,
+                               sub3_casa.values(),
+                               sub3_casa_tempo,
+                               sub4_casa.values(), sub4_casa_tempo, sub5_casa.values(), sub5_casa_tempo,
+                               sub1_fora.values(), sub1_fora_tempo, sub2_fora.values(), sub2_fora_tempo,
+                               sub3_fora.values(), sub3_fora_tempo, sub4_fora.values(), sub4_fora_tempo,
+                               sub5_fora.values(), sub5_fora_tempo]])
+
+        dfs_i.reset_index(drop=True).rename(**cols)
+
+        dfs_final = dfs.append(dfs_i, ignore_index=True)
+        dfs = dfs_final
+
