@@ -1,47 +1,2087 @@
-R�tulos de Linha;M�dia de tempo;;;
-Miguel Ángel Ramírez;72;;;
-Fernando Diniz;70,31818182;;;
-Osmar Loss Vieira;69,81818182;;;
-Maurício Barbieri;69,71428571;;;
-Marquinhos Santos;69,50961538;;;
-Marcão;69,05555556;;;
-Paulo Autuori;69;;;
-Renato Gaúcho;68,71428571;;;
-António Oliveira;68,6122449;;;
-Rogério Ceni;68,52459016;;;
-Roger Machado;68,2972973;;;
-Cuca;68,26126126;;;
-Diogo Giacomini;68;;;
-Guto Ferreira;67,94736842;;;
-Dado Cavalcanti;67,87755102;;;
-Sylvinho;67,3956044;;;
-Eduardo Barroca;66,60273973;;;
-James Freitas;66;;;
-Alberto Valentim;65,70833333;;;
-Hernán Crespo;65,53968254;;;
-Juan Pablo Vojvoda;65,27358491;;;
-Umberto Lourenço Louzer Filho ;65,15217391;;;
-Gustavo Florentín;65,12962963;;;
-Abel Ferreira;65,10091743;;;
-Emerson Ávila;65;;;
-Diego Dabove;64,83333333;;;
-Vágner Mancini;64,80582524;;;
-Mozart Batista;64,75;;;
-Tiago Nunes;64,44303797;;;
-Luiz Felipe Scolari;64,43902439;;;
-Lisca;63,28571429;;;
-Felipe Endres;62,55172414;;;
-Jorginho;61,55102041;;;
-Fábio Carille;61,37037037;;;
-Jair Ventura;61,36363636;;;
-Diego Aguirre;61,18072289;;;
-Maurício Ferreira De Souza;61;;;
-Cauan;60,5;;;
-Eduardo Zuma;60;;;
-Marcelo Cabo;59,17857143;;;
-Pintado;58,48780488;;;
-Luiz Fernando Iubel;57,55555556;;;
-Bruno Lopes;54;;;
-Thiago Gomes Pacheco;45;;;
-Eduardo Souza;44;;;
-Total Geral;65,82240306;;;
+tecnico,,tempo
+Abel Ferreira,16,44
+Abel Ferreira,20,56
+Abel Ferreira,38,69
+Abel Ferreira,60,55
+Abel Ferreira,91,64
+Abel Ferreira,96,61
+Abel Ferreira,118,59
+Abel Ferreira,139,59
+Abel Ferreira,160,45
+Abel Ferreira,170,62
+Abel Ferreira,189,45
+Abel Ferreira,220,45
+Abel Ferreira,238,45
+Abel Ferreira,254,69
+Abel Ferreira,273,45
+Abel Ferreira,304,64
+Abel Ferreira,324,60
+Abel Ferreira,338,72
+Abel Ferreira,376,55
+Abel Ferreira,396,70
+Abel Ferreira,400,56
+Abel Ferreira,418,69
+Abel Ferreira,440,56
+Abel Ferreira,471,68
+Abel Ferreira,476,62
+Abel Ferreira,498,60
+Abel Ferreira,519,59
+Abel Ferreira,540,45
+Abel Ferreira,550,62
+Abel Ferreira,569,59
+Abel Ferreira,600,62
+Abel Ferreira,618,58
+Abel Ferreira,634,69
+Abel Ferreira,653,67
+Abel Ferreira,684,64
+Abel Ferreira,704,67
+Abel Ferreira,718,72
+Abel Ferreira,756,66
+Abel Ferreira,776,73
+Abel Ferreira,780,84
+Abel Ferreira,820,56
+Abel Ferreira,851,76
+Abel Ferreira,856,76
+Abel Ferreira,878,60
+Abel Ferreira,899,59
+Abel Ferreira,920,45
+Abel Ferreira,930,62
+Abel Ferreira,949,59
+Abel Ferreira,980,62
+Abel Ferreira,998,80
+Abel Ferreira,1014,69
+Abel Ferreira,1033,67
+Abel Ferreira,1064,69
+Abel Ferreira,1084,67
+Abel Ferreira,1098,73
+Abel Ferreira,1136,67
+Abel Ferreira,1156,73
+Abel Ferreira,1160,85
+Abel Ferreira,1200,56
+Abel Ferreira,1231,76
+Abel Ferreira,1236,87
+Abel Ferreira,1258,75
+Abel Ferreira,1279,67
+Abel Ferreira,1300,45
+Abel Ferreira,1310,85
+Abel Ferreira,1329,60
+Abel Ferreira,1360,63
+Abel Ferreira,1378,80
+Abel Ferreira,1394,79
+Abel Ferreira,1413,77
+Abel Ferreira,1444,69
+Abel Ferreira,1464,67
+Abel Ferreira,1478,77
+Abel Ferreira,1516,89
+Abel Ferreira,1536,80
+Abel Ferreira,1580,77
+Abel Ferreira,1611,77
+Abel Ferreira,1616,87
+Abel Ferreira,1638,89
+Abel Ferreira,1659,72
+Abel Ferreira,1680,61
+Abel Ferreira,1690,85
+Abel Ferreira,1709,72
+Abel Ferreira,1740,85
+Abel Ferreira,1758,86
+Abel Ferreira,1774,79
+Abel Ferreira,1793,89
+Abel Ferreira,1824,76
+Abel Ferreira,1844,75
+Abel Ferreira,1896,89
+Abel Ferreira,1905,53
+Abel Ferreira,1931,25
+Abel Ferreira,1947,45
+Abel Ferreira,1969,45
+Abel Ferreira,1980,66
+Abel Ferreira,2011,60
+Abel Ferreira,2027,57
+Abel Ferreira,2047,45
+Abel Ferreira,2093,45
+Abel Ferreira,2105,31
+Abel Ferreira,2128,79
+Abel Ferreira,2143,45
+Abel Ferreira,2162,65
+Abel Ferreira,2182,67
+Abel Ferreira,2194,76
+Abel Ferreira,2215,45
+Abel Ferreira,2229,61
+Abel Ferreira,2253,45
+Abel Ferreira,2264,83
+Alberto Valentim,0,45
+Alberto Valentim,235,58
+Alberto Valentim,255,45
+Alberto Valentim,277,59
+Alberto Valentim,287,75
+Alberto Valentim,301,18
+Alberto Valentim,318,66
+Alberto Valentim,356,45
+Alberto Valentim,364,63
+Alberto Valentim,380,70
+Alberto Valentim,615,58
+Alberto Valentim,635,62
+Alberto Valentim,657,75
+Alberto Valentim,667,79
+Alberto Valentim,681,43
+Alberto Valentim,698,66
+Alberto Valentim,736,71
+Alberto Valentim,744,63
+Alberto Valentim,760,79
+Alberto Valentim,995,67
+Alberto Valentim,1015,70
+Alberto Valentim,1037,76
+Alberto Valentim,1047,89
+Alberto Valentim,1061,45
+Alberto Valentim,1078,73
+Alberto Valentim,1116,80
+Alberto Valentim,1124,80
+Alberto Valentim,1140,82
+Alberto Valentim,1375,67
+Alberto Valentim,1395,70
+Alberto Valentim,1417,80
+Alberto Valentim,1427,89
+Alberto Valentim,1441,63
+Alberto Valentim,1458,79
+Alberto Valentim,1496,81
+Alberto Valentim,1504,85
+Alberto Valentim,1755,82
+Alberto Valentim,1775,80
+Alberto Valentim,1821,63
+Alberto Valentim,1838,79
+Alberto Valentim,1884,85
+Alberto Valentim,2125,40
+Alberto Valentim,2146,45
+Alberto Valentim,2167,73
+Alberto Valentim,2195,59
+Alberto Valentim,2212,45
+Alberto Valentim,2239,24
+Alberto Valentim,2247,63
+António Oliveira,42,65
+António Oliveira,59,73
+António Oliveira,77,76
+António Oliveira,98,79
+António Oliveira,123,12
+António Oliveira,137,60
+António Oliveira,161,45
+António Oliveira,180,60
+António Oliveira,212,76
+António Oliveira,422,81
+António Oliveira,439,78
+António Oliveira,457,76
+António Oliveira,478,83
+António Oliveira,503,78
+António Oliveira,517,75
+António Oliveira,541,56
+António Oliveira,560,70
+António Oliveira,592,77
+António Oliveira,802,81
+António Oliveira,819,83
+António Oliveira,837,80
+António Oliveira,858,83
+António Oliveira,883,83
+António Oliveira,897,75
+António Oliveira,921,56
+António Oliveira,940,77
+António Oliveira,972,80
+António Oliveira,1182,87
+António Oliveira,1199,84
+António Oliveira,1217,86
+António Oliveira,1263,83
+António Oliveira,1277,76
+António Oliveira,1301,56
+António Oliveira,1320,78
+António Oliveira,1352,80
+António Oliveira,1643,83
+António Oliveira,1657,87
+António Oliveira,1681,64
+António Oliveira,1732,82
+António Oliveira,1917,61
+António Oliveira,1923,45
+António Oliveira,1955,20
+António Oliveira,1967,63
+António Oliveira,1986,57
+António Oliveira,2006,53
+António Oliveira,2031,45
+António Oliveira,2051,45
+António Oliveira,2070,45
+António Oliveira,2083,64
+Bruno Lopes,2058,54
+Cauan,33,28
+Cauan,413,59
+Cauan,793,59
+Cauan,1173,84
+Cauan,1553,84
+Cauan,1938,49
+Cuca,3,62
+Cuca,22,58
+Cuca,45,69
+Cuca,74,77
+Cuca,90,5
+Cuca,119,45
+Cuca,131,45
+Cuca,147,68
+Cuca,195,62
+Cuca,217,31
+Cuca,233,62
+Cuca,245,45
+Cuca,268,67
+Cuca,288,50
+Cuca,296,57
+Cuca,302,64
+Cuca,328,35
+Cuca,346,67
+Cuca,361,45
+Cuca,383,62
+Cuca,402,75
+Cuca,425,69
+Cuca,454,89
+Cuca,470,73
+Cuca,499,45
+Cuca,511,64
+Cuca,527,78
+Cuca,575,62
+Cuca,597,60
+Cuca,613,62
+Cuca,625,45
+Cuca,648,67
+Cuca,668,69
+Cuca,676,84
+Cuca,682,78
+Cuca,708,74
+Cuca,726,67
+Cuca,741,45
+Cuca,763,70
+Cuca,782,75
+Cuca,805,80
+Cuca,834,89
+Cuca,850,79
+Cuca,879,69
+Cuca,891,78
+Cuca,907,78
+Cuca,955,72
+Cuca,977,60
+Cuca,993,76
+Cuca,1005,63
+Cuca,1028,77
+Cuca,1048,69
+Cuca,1056,89
+Cuca,1062,78
+Cuca,1088,84
+Cuca,1106,74
+Cuca,1121,57
+Cuca,1143,70
+Cuca,1162,80
+Cuca,1185,80
+Cuca,1214,89
+Cuca,1230,80
+Cuca,1259,80
+Cuca,1271,78
+Cuca,1287,83
+Cuca,1335,72
+Cuca,1357,75
+Cuca,1373,76
+Cuca,1385,63
+Cuca,1408,77
+Cuca,1428,69
+Cuca,1436,89
+Cuca,1442,83
+Cuca,1468,84
+Cuca,1486,87
+Cuca,1501,57
+Cuca,1523,87
+Cuca,1542,82
+Cuca,1565,89
+Cuca,1594,89
+Cuca,1610,89
+Cuca,1639,86
+Cuca,1651,86
+Cuca,1667,83
+Cuca,1715,72
+Cuca,1737,75
+Cuca,1753,82
+Cuca,1765,76
+Cuca,1788,87
+Cuca,1808,89
+Cuca,1822,83
+Cuca,1881,89
+Cuca,1918,76
+Cuca,1929,16
+Cuca,1953,45
+Cuca,1962,57
+Cuca,1982,48
+Cuca,1999,62
+Cuca,2008,45
+Cuca,2041,45
+Cuca,2066,72
+Cuca,2074,59
+Cuca,2088,61
+Cuca,2106,60
+Cuca,2126,45
+Cuca,2157,69
+Cuca,2178,45
+Cuca,2218,78
+Cuca,2238,45
+Cuca,2254,67
+Cuca,2274,67
+Dado Cavalcanti,1,73
+Dado Cavalcanti,25,56
+Dado Cavalcanti,39,68
+Dado Cavalcanti,55,20
+Dado Cavalcanti,68,31
+Dado Cavalcanti,88,45
+Dado Cavalcanti,112,45
+Dado Cavalcanti,132,29
+Dado Cavalcanti,153,63
+Dado Cavalcanti,381,73
+Dado Cavalcanti,405,56
+Dado Cavalcanti,419,82
+Dado Cavalcanti,435,45
+Dado Cavalcanti,448,59
+Dado Cavalcanti,468,62
+Dado Cavalcanti,492,59
+Dado Cavalcanti,512,74
+Dado Cavalcanti,533,71
+Dado Cavalcanti,761,76
+Dado Cavalcanti,785,56
+Dado Cavalcanti,799,82
+Dado Cavalcanti,815,63
+Dado Cavalcanti,828,75
+Dado Cavalcanti,848,78
+Dado Cavalcanti,872,67
+Dado Cavalcanti,892,84
+Dado Cavalcanti,913,79
+Dado Cavalcanti,1141,85
+Dado Cavalcanti,1165,70
+Dado Cavalcanti,1179,88
+Dado Cavalcanti,1195,89
+Dado Cavalcanti,1208,75
+Dado Cavalcanti,1228,86
+Dado Cavalcanti,1252,78
+Dado Cavalcanti,1272,84
+Dado Cavalcanti,1293,79
+Dado Cavalcanti,1521,85
+Dado Cavalcanti,1545,83
+Dado Cavalcanti,1575,89
+Dado Cavalcanti,1588,75
+Dado Cavalcanti,1608,86
+Dado Cavalcanti,1632,78
+Dado Cavalcanti,1911,45
+Dado Cavalcanti,1932,62
+Dado Cavalcanti,1960,65
+Dado Cavalcanti,1979,63
+Dado Cavalcanti,2001,71
+Dado Cavalcanti,2019,63
+Dado Cavalcanti,2038,56
+Diego Aguirre,69,71
+Diego Aguirre,94,36
+Diego Aguirre,113,45
+Diego Aguirre,128,20
+Diego Aguirre,154,63
+Diego Aguirre,198,44
+Diego Aguirre,208,61
+Diego Aguirre,239,45
+Diego Aguirre,249,45
+Diego Aguirre,263,45
+Diego Aguirre,269,45
+Diego Aguirre,292,45
+Diego Aguirre,312,43
+Diego Aguirre,332,75
+Diego Aguirre,348,45
+Diego Aguirre,367,45
+Diego Aguirre,449,80
+Diego Aguirre,474,45
+Diego Aguirre,493,45
+Diego Aguirre,508,45
+Diego Aguirre,534,80
+Diego Aguirre,578,45
+Diego Aguirre,588,71
+Diego Aguirre,619,45
+Diego Aguirre,629,63
+Diego Aguirre,643,45
+Diego Aguirre,649,67
+Diego Aguirre,672,58
+Diego Aguirre,692,56
+Diego Aguirre,712,75
+Diego Aguirre,728,55
+Diego Aguirre,747,59
+Diego Aguirre,854,57
+Diego Aguirre,873,61
+Diego Aguirre,888,67
+Diego Aguirre,914,85
+Diego Aguirre,958,68
+Diego Aguirre,968,81
+Diego Aguirre,999,45
+Diego Aguirre,1009,72
+Diego Aguirre,1023,58
+Diego Aguirre,1029,74
+Diego Aguirre,1052,89
+Diego Aguirre,1072,76
+Diego Aguirre,1092,75
+Diego Aguirre,1108,61
+Diego Aguirre,1127,76
+Diego Aguirre,1234,57
+Diego Aguirre,1253,62
+Diego Aguirre,1268,69
+Diego Aguirre,1294,86
+Diego Aguirre,1338,68
+Diego Aguirre,1348,81
+Diego Aguirre,1379,59
+Diego Aguirre,1389,89
+Diego Aguirre,1403,67
+Diego Aguirre,1409,84
+Diego Aguirre,1452,77
+Diego Aguirre,1472,88
+Diego Aguirre,1488,61
+Diego Aguirre,1614,76
+Diego Aguirre,1633,75
+Diego Aguirre,1718,79
+Diego Aguirre,1759,70
+Diego Aguirre,1769,89
+Diego Aguirre,1783,84
+Diego Aguirre,1952,55
+Diego Aguirre,1963,45
+Diego Aguirre,1978,45
+Diego Aguirre,1997,45
+Diego Aguirre,2023,60
+Diego Aguirre,2043,72
+Diego Aguirre,2063,45
+Diego Aguirre,2073,60
+Diego Aguirre,2092,45
+Diego Aguirre,2117,81
+Diego Aguirre,2123,45
+Diego Aguirre,2154,54
+Diego Aguirre,2183,45
+Diego Aguirre,2207,61
+Diego Aguirre,2220,45
+Diego Aguirre,2240,57
+Diego Aguirre,2279,45
+Diego Dabove,179,53
+Diego Dabove,196,75
+Diego Dabove,559,58
+Diego Dabove,576,75
+Diego Dabove,939,81
+Diego Dabove,956,76
+Diego Dabove,1336,83
+Diego Dabove,1716,84
+Diego Dabove,2075,65
+Diego Dabove,2086,57
+Diego Dabove,2108,9
+Diego Dabove,2122,62
+Diogo Giacomini,253,45
+Diogo Giacomini,633,71
+Diogo Giacomini,1013,78
+Diogo Giacomini,1393,78
+Eduardo Barroca,10,72
+Eduardo Barroca,35,67
+Eduardo Barroca,49,40
+Eduardo Barroca,65,72
+Eduardo Barroca,92,63
+Eduardo Barroca,111,45
+Eduardo Barroca,134,64
+Eduardo Barroca,157,45
+Eduardo Barroca,173,27
+Eduardo Barroca,190,55
+Eduardo Barroca,213,74
+Eduardo Barroca,225,53
+Eduardo Barroca,257,45
+Eduardo Barroca,272,61
+Eduardo Barroca,390,89
+Eduardo Barroca,415,87
+Eduardo Barroca,429,69
+Eduardo Barroca,445,77
+Eduardo Barroca,472,73
+Eduardo Barroca,491,55
+Eduardo Barroca,514,64
+Eduardo Barroca,537,45
+Eduardo Barroca,553,78
+Eduardo Barroca,570,63
+Eduardo Barroca,593,75
+Eduardo Barroca,605,53
+Eduardo Barroca,637,61
+Eduardo Barroca,652,77
+Eduardo Barroca,770,89
+Eduardo Barroca,795,87
+Eduardo Barroca,809,85
+Eduardo Barroca,825,77
+Eduardo Barroca,852,80
+Eduardo Barroca,871,67
+Eduardo Barroca,894,83
+Eduardo Barroca,917,45
+Eduardo Barroca,933,78
+Eduardo Barroca,950,64
+Eduardo Barroca,973,80
+Eduardo Barroca,985,69
+Eduardo Barroca,1017,61
+Eduardo Barroca,1032,86
+Eduardo Barroca,1205,84
+Eduardo Barroca,1251,79
+Eduardo Barroca,1274,83
+Eduardo Barroca,1297,71
+Eduardo Barroca,1330,78
+Eduardo Barroca,1353,80
+Eduardo Barroca,1365,69
+Eduardo Barroca,1397,77
+Eduardo Barroca,1412,86
+Eduardo Barroca,1654,88
+Eduardo Barroca,1677,74
+Eduardo Barroca,1710,79
+Eduardo Barroca,1733,89
+Eduardo Barroca,1745,82
+Eduardo Barroca,1777,77
+Eduardo Barroca,1792,86
+Eduardo Barroca,1908,84
+Eduardo Barroca,1942,73
+Eduardo Barroca,1974,45
+Eduardo Barroca,1985,71
+Eduardo Barroca,2002,71
+Eduardo Barroca,2016,25
+Eduardo Barroca,2022,52
+Eduardo Barroca,2044,60
+Eduardo Barroca,2053,27
+Eduardo Barroca,2099,45
+Eduardo Barroca,2115,68
+Eduardo Barroca,2134,8
+Eduardo Barroca,2184,45
+Eduardo Barroca,2190,61
+Eduardo Barroca,2204,45
+Eduardo Souza,2142,44
+Eduardo Zuma,2052,60
+Emerson Ávila,2259,65
+Felipe Endres,299,45
+Felipe Endres,317,45
+Felipe Endres,330,45
+Felipe Endres,358,66
+Felipe Endres,369,57
+Felipe Endres,679,63
+Felipe Endres,697,45
+Felipe Endres,710,60
+Felipe Endres,738,66
+Felipe Endres,749,71
+Felipe Endres,1059,63
+Felipe Endres,1077,47
+Felipe Endres,1090,70
+Felipe Endres,1118,74
+Felipe Endres,1129,71
+Felipe Endres,1439,77
+Felipe Endres,1457,69
+Felipe Endres,1470,71
+Felipe Endres,1498,81
+Felipe Endres,1509,77
+Felipe Endres,1819,83
+Felipe Endres,1837,69
+Felipe Endres,1850,84
+Felipe Endres,1889,77
+Felipe Endres,2186,66
+Felipe Endres,2189,59
+Felipe Endres,2222,9
+Felipe Endres,2252,45
+Felipe Endres,2272,59
+Fernando Diniz,12,81
+Fernando Diniz,19,45
+Fernando Diniz,43,70
+Fernando Diniz,62,67
+Fernando Diniz,70,55
+Fernando Diniz,86,71
+Fernando Diniz,122,45
+Fernando Diniz,140,66
+Fernando Diniz,163,74
+Fernando Diniz,168,68
+Fernando Diniz,392,81
+Fernando Diniz,399,80
+Fernando Diniz,423,79
+Fernando Diniz,442,80
+Fernando Diniz,450,62
+Fernando Diniz,466,82
+Fernando Diniz,502,75
+Fernando Diniz,520,66
+Fernando Diniz,543,74
+Fernando Diniz,548,78
+Fernando Diniz,772,86
+Fernando Diniz,803,80
+Fernando Diniz,822,84
+Fernando Diniz,830,62
+Fernando Diniz,846,82
+Fernando Diniz,882,85
+Fernando Diniz,928,78
+Fernando Diniz,1152,87
+Fernando Diniz,1183,89
+Fernando Diniz,1210,80
+Fernando Diniz,1226,89
+Fernando Diniz,1262,85
+Fernando Diniz,1532,89
+Fernando Diniz,1563,89
+Fernando Diniz,1590,80
+Fernando Diniz,1606,89
+Fernando Diniz,1901,73
+Fernando Diniz,1934,58
+Fernando Diniz,1954,19
+Fernando Diniz,1976,60
+Fernando Diniz,1996,45
+Fernando Diniz,2014,29
+Fernando Diniz,2033,45
+Fernando Diniz,2078,32
+Fábio Carille,186,45
+Fábio Carille,240,55
+Fábio Carille,264,43
+Fábio Carille,275,52
+Fábio Carille,294,45
+Fábio Carille,303,65
+Fábio Carille,322,36
+Fábio Carille,341,45
+Fábio Carille,375,26
+Fábio Carille,566,63
+Fábio Carille,620,55
+Fábio Carille,644,45
+Fábio Carille,655,67
+Fábio Carille,674,50
+Fábio Carille,683,65
+Fábio Carille,702,45
+Fábio Carille,721,45
+Fábio Carille,755,60
+Fábio Carille,946,69
+Fábio Carille,1000,60
+Fábio Carille,1024,45
+Fábio Carille,1035,67
+Fábio Carille,1054,69
+Fábio Carille,1063,74
+Fábio Carille,1082,71
+Fábio Carille,1101,60
+Fábio Carille,1135,60
+Fábio Carille,1326,69
+Fábio Carille,1380,79
+Fábio Carille,1404,64
+Fábio Carille,1415,79
+Fábio Carille,1434,69
+Fábio Carille,1443,81
+Fábio Carille,1462,72
+Fábio Carille,1481,80
+Fábio Carille,1515,60
+Fábio Carille,1760,79
+Fábio Carille,1784,82
+Fábio Carille,1795,79
+Fábio Carille,1814,84
+Fábio Carille,1823,81
+Fábio Carille,1842,84
+Fábio Carille,1861,85
+Fábio Carille,1895,84
+Fábio Carille,2097,62
+Fábio Carille,2109,60
+Fábio Carille,2131,63
+Fábio Carille,2145,10
+Fábio Carille,2159,62
+Fábio Carille,2177,45
+Fábio Carille,2209,45
+Fábio Carille,2233,45
+Fábio Carille,2248,45
+Fábio Carille,2268,84
+Gustavo Florentín,167,60
+Gustavo Florentín,192,45
+Gustavo Florentín,211,45
+Gustavo Florentín,224,62
+Gustavo Florentín,232,58
+Gustavo Florentín,259,24
+Gustavo Florentín,284,66
+Gustavo Florentín,306,57
+Gustavo Florentín,327,61
+Gustavo Florentín,357,66
+Gustavo Florentín,370,45
+Gustavo Florentín,547,60
+Gustavo Florentín,572,59
+Gustavo Florentín,591,59
+Gustavo Florentín,604,67
+Gustavo Florentín,612,63
+Gustavo Florentín,639,66
+Gustavo Florentín,664,66
+Gustavo Florentín,686,57
+Gustavo Florentín,707,70
+Gustavo Florentín,737,82
+Gustavo Florentín,750,74
+Gustavo Florentín,927,75
+Gustavo Florentín,952,70
+Gustavo Florentín,971,59
+Gustavo Florentín,984,80
+Gustavo Florentín,992,77
+Gustavo Florentín,1019,85
+Gustavo Florentín,1044,72
+Gustavo Florentín,1066,85
+Gustavo Florentín,1087,82
+Gustavo Florentín,1117,87
+Gustavo Florentín,1130,83
+Gustavo Florentín,1307,75
+Gustavo Florentín,1332,78
+Gustavo Florentín,1351,62
+Gustavo Florentín,1364,80
+Gustavo Florentín,1372,78
+Gustavo Florentín,1424,83
+Gustavo Florentín,1467,82
+Gustavo Florentín,1497,87
+Gustavo Florentín,1510,89
+Gustavo Florentín,1687,85
+Gustavo Florentín,1731,77
+Gustavo Florentín,2080,65
+Gustavo Florentín,2095,45
+Gustavo Florentín,2121,20
+Gustavo Florentín,2150,45
+Gustavo Florentín,2173,18
+Gustavo Florentín,2176,62
+Gustavo Florentín,2193,45
+Gustavo Florentín,2216,75
+Gustavo Florentín,2245,54
+Gustavo Florentín,2269,45
+Guto Ferreira,4,45
+Guto Ferreira,32,68
+Guto Ferreira,53,65
+Guto Ferreira,61,58
+Guto Ferreira,84,59
+Guto Ferreira,106,62
+Guto Ferreira,135,45
+Guto Ferreira,144,45
+Guto Ferreira,162,71
+Guto Ferreira,243,67
+Guto Ferreira,271,45
+Guto Ferreira,274,29
+Guto Ferreira,297,71
+Guto Ferreira,335,56
+Guto Ferreira,343,68
+Guto Ferreira,354,76
+Guto Ferreira,360,59
+Guto Ferreira,384,45
+Guto Ferreira,412,68
+Guto Ferreira,433,65
+Guto Ferreira,441,59
+Guto Ferreira,464,71
+Guto Ferreira,486,71
+Guto Ferreira,515,55
+Guto Ferreira,524,66
+Guto Ferreira,542,78
+Guto Ferreira,623,69
+Guto Ferreira,651,62
+Guto Ferreira,654,45
+Guto Ferreira,677,74
+Guto Ferreira,715,70
+Guto Ferreira,723,77
+Guto Ferreira,734,76
+Guto Ferreira,740,76
+Guto Ferreira,764,71
+Guto Ferreira,792,72
+Guto Ferreira,813,79
+Guto Ferreira,821,59
+Guto Ferreira,844,80
+Guto Ferreira,866,83
+Guto Ferreira,895,70
+Guto Ferreira,904,77
+Guto Ferreira,922,78
+Guto Ferreira,1003,79
+Guto Ferreira,1031,62
+Guto Ferreira,1034,70
+Guto Ferreira,1057,75
+Guto Ferreira,1095,81
+Guto Ferreira,1103,77
+Guto Ferreira,1114,78
+Guto Ferreira,1120,76
+Guto Ferreira,1144,75
+Guto Ferreira,1172,83
+Guto Ferreira,1193,84
+Guto Ferreira,1201,77
+Guto Ferreira,1224,80
+Guto Ferreira,1246,83
+Guto Ferreira,1275,78
+Guto Ferreira,1284,77
+Guto Ferreira,1302,78
+Guto Ferreira,1383,79
+Guto Ferreira,1411,62
+Guto Ferreira,1414,70
+Guto Ferreira,1437,75
+Guto Ferreira,1475,82
+Guto Ferreira,1483,87
+Guto Ferreira,1494,85
+Guto Ferreira,1500,82
+Guto Ferreira,1524,75
+Guto Ferreira,1581,82
+Guto Ferreira,1626,84
+Guto Ferreira,1655,78
+Guto Ferreira,1664,86
+Guto Ferreira,1682,85
+Guto Ferreira,1791,74
+Guto Ferreira,1794,74
+Guto Ferreira,1817,83
+Guto Ferreira,1863,87
+Guto Ferreira,1880,82
+Guto Ferreira,1912,64
+Guto Ferreira,1926,63
+Guto Ferreira,1940,75
+Guto Ferreira,1973,61
+Guto Ferreira,1993,55
+Guto Ferreira,2003,45
+Guto Ferreira,2024,60
+Guto Ferreira,2049,45
+Guto Ferreira,2071,27
+Guto Ferreira,2135,66
+Guto Ferreira,2153,60
+Guto Ferreira,2179,18
+Guto Ferreira,2208,58
+Guto Ferreira,2227,45
+Guto Ferreira,2249,45
+Guto Ferreira,2273,58
+Hernán Crespo,2,45
+Hernán Crespo,28,45
+Hernán Crespo,46,45
+Hernán Crespo,83,45
+Hernán Crespo,101,59
+Hernán Crespo,107,61
+Hernán Crespo,127,57
+Hernán Crespo,148,45
+Hernán Crespo,199,45
+Hernán Crespo,203,58
+Hernán Crespo,206,79
+Hernán Crespo,231,54
+Hernán Crespo,382,55
+Hernán Crespo,408,58
+Hernán Crespo,426,64
+Hernán Crespo,463,61
+Hernán Crespo,481,69
+Hernán Crespo,487,61
+Hernán Crespo,507,83
+Hernán Crespo,528,58
+Hernán Crespo,579,72
+Hernán Crespo,583,58
+Hernán Crespo,586,84
+Hernán Crespo,611,77
+Hernán Crespo,762,73
+Hernán Crespo,788,59
+Hernán Crespo,806,76
+Hernán Crespo,843,62
+Hernán Crespo,861,77
+Hernán Crespo,867,69
+Hernán Crespo,908,69
+Hernán Crespo,959,79
+Hernán Crespo,963,81
+Hernán Crespo,966,85
+Hernán Crespo,991,84
+Hernán Crespo,1142,84
+Hernán Crespo,1168,87
+Hernán Crespo,1186,77
+Hernán Crespo,1223,84
+Hernán Crespo,1241,77
+Hernán Crespo,1247,69
+Hernán Crespo,1288,69
+Hernán Crespo,1339,79
+Hernán Crespo,1343,81
+Hernán Crespo,1346,87
+Hernán Crespo,1371,84
+Hernán Crespo,1566,85
+Hernán Crespo,1603,89
+Hernán Crespo,1627,85
+Hernán Crespo,1719,89
+Hernán Crespo,1910,45
+Hernán Crespo,1922,39
+Hernán Crespo,1943,43
+Hernán Crespo,1961,62
+Hernán Crespo,1972,54
+Hernán Crespo,1994,45
+Hernán Crespo,2021,56
+Hernán Crespo,2037,57
+Hernán Crespo,2064,45
+Hernán Crespo,2072,57
+Hernán Crespo,2091,45
+Hernán Crespo,2118,63
+Hernán Crespo,2141,40
+Jair Ventura,26,33
+Jair Ventura,52,45
+Jair Ventura,79,45
+Jair Ventura,95,25
+Jair Ventura,110,63
+Jair Ventura,133,60
+Jair Ventura,265,64
+Jair Ventura,279,63
+Jair Ventura,307,61
+Jair Ventura,325,65
+Jair Ventura,350,59
+Jair Ventura,371,19
+Jair Ventura,406,33
+Jair Ventura,432,64
+Jair Ventura,459,45
+Jair Ventura,475,45
+Jair Ventura,490,63
+Jair Ventura,513,60
+Jair Ventura,645,76
+Jair Ventura,659,63
+Jair Ventura,687,75
+Jair Ventura,705,72
+Jair Ventura,730,59
+Jair Ventura,751,45
+Jair Ventura,786,34
+Jair Ventura,812,64
+Jair Ventura,839,58
+Jair Ventura,855,45
+Jair Ventura,870,73
+Jair Ventura,893,60
+Jair Ventura,1025,85
+Jair Ventura,1039,80
+Jair Ventura,1067,86
+Jair Ventura,1085,84
+Jair Ventura,1110,69
+Jair Ventura,1131,65
+Jair Ventura,1166,45
+Jair Ventura,1192,78
+Jair Ventura,1219,58
+Jair Ventura,1235,70
+Jair Ventura,1250,73
+Jair Ventura,1273,76
+Jair Ventura,1419,80
+Jair Ventura,1447,86
+Jair Ventura,1465,85
+Jair Ventura,1490,89
+Jair Ventura,1511,66
+Jair Ventura,1546,68
+Jair Ventura,1572,85
+Jair Ventura,1599,79
+Jair Ventura,1615,79
+Jair Ventura,1630,82
+Jair Ventura,1653,85
+Jair Ventura,1870,89
+Jair Ventura,1891,73
+Jair Ventura,1916,45
+Jair Ventura,1928,3
+Jair Ventura,1945,45
+Jair Ventura,1959,69
+Jair Ventura,1966,45
+Jair Ventura,2004,63
+Jair Ventura,2025,45
+Jair Ventura,2217,45
+Jair Ventura,2228,57
+Jair Ventura,2236,45
+Jair Ventura,2265,37
+James Freitas,2270,66
+Jorginho,82,32
+Jorginho,103,43
+Jorginho,116,45
+Jorginho,126,45
+Jorginho,138,34
+Jorginho,151,71
+Jorginho,156,45
+Jorginho,178,57
+Jorginho,202,45
+Jorginho,214,45
+Jorginho,241,45
+Jorginho,250,60
+Jorginho,285,59
+Jorginho,289,59
+Jorginho,320,61
+Jorginho,353,45
+Jorginho,366,45
+Jorginho,462,66
+Jorginho,483,59
+Jorginho,496,45
+Jorginho,506,45
+Jorginho,518,67
+Jorginho,531,71
+Jorginho,536,45
+Jorginho,558,57
+Jorginho,582,45
+Jorginho,594,59
+Jorginho,621,67
+Jorginho,630,60
+Jorginho,665,65
+Jorginho,669,59
+Jorginho,700,63
+Jorginho,733,45
+Jorginho,746,57
+Jorginho,842,66
+Jorginho,863,59
+Jorginho,876,52
+Jorginho,886,66
+Jorginho,898,67
+Jorginho,911,79
+Jorginho,916,70
+Jorginho,938,60
+Jorginho,962,45
+Jorginho,974,61
+Jorginho,1001,67
+Jorginho,1010,60
+Jorginho,1045,73
+Jorginho,1049,70
+Jorginho,1080,78
+Jorginho,1113,55
+Jorginho,1126,57
+Jorginho,1222,80
+Jorginho,1243,60
+Jorginho,1256,52
+Jorginho,1266,66
+Jorginho,1278,83
+Jorginho,1291,79
+Jorginho,1296,70
+Jorginho,1318,72
+Jorginho,1342,67
+Jorginho,1354,72
+Jorginho,1381,82
+Jorginho,1390,75
+Jorginho,1425,73
+Jorginho,1429,71
+Jorginho,1460,78
+Jorginho,1493,66
+Jorginho,1506,66
+Jorginho,1602,80
+Jorginho,1623,82
+Jorginho,1636,73
+Jorginho,1646,81
+Jorginho,1658,83
+Jorginho,1671,85
+Jorginho,1676,76
+Jorginho,1698,72
+Jorginho,1722,71
+Jorginho,1734,79
+Jorginho,1770,81
+Jorginho,1805,73
+Jorginho,1809,82
+Jorginho,1873,72
+Jorginho,1886,78
+Jorginho,1987,63
+Jorginho,2010,45
+Jorginho,2028,68
+Jorginho,2060,45
+Jorginho,2076,45
+Jorginho,2084,45
+Jorginho,2113,34
+Jorginho,2130,65
+Jorginho,2160,45
+Jorginho,2168,45
+Jorginho,2198,45
+Jorginho,2213,45
+Jorginho,2235,66
+Jorginho,2256,63
+Jorginho,2275,37
+Juan Pablo Vojvoda,14,59
+Juan Pablo Vojvoda,27,63
+Juan Pablo Vojvoda,41,10
+Juan Pablo Vojvoda,66,56
+Juan Pablo Vojvoda,89,68
+Juan Pablo Vojvoda,105,45
+Juan Pablo Vojvoda,120,59
+Juan Pablo Vojvoda,152,63
+Juan Pablo Vojvoda,176,45
+Juan Pablo Vojvoda,188,66
+Juan Pablo Vojvoda,215,68
+Juan Pablo Vojvoda,236,31
+Juan Pablo Vojvoda,247,62
+Juan Pablo Vojvoda,267,10
+Juan Pablo Vojvoda,305,66
+Juan Pablo Vojvoda,323,45
+Juan Pablo Vojvoda,329,65
+Juan Pablo Vojvoda,359,54
+Juan Pablo Vojvoda,373,45
+Juan Pablo Vojvoda,394,59
+Juan Pablo Vojvoda,407,63
+Juan Pablo Vojvoda,421,71
+Juan Pablo Vojvoda,446,64
+Juan Pablo Vojvoda,469,69
+Juan Pablo Vojvoda,485,45
+Juan Pablo Vojvoda,500,70
+Juan Pablo Vojvoda,532,69
+Juan Pablo Vojvoda,556,45
+Juan Pablo Vojvoda,568,72
+Juan Pablo Vojvoda,595,68
+Juan Pablo Vojvoda,616,45
+Juan Pablo Vojvoda,627,68
+Juan Pablo Vojvoda,647,42
+Juan Pablo Vojvoda,685,66
+Juan Pablo Vojvoda,703,73
+Juan Pablo Vojvoda,709,70
+Juan Pablo Vojvoda,739,66
+Juan Pablo Vojvoda,753,67
+Juan Pablo Vojvoda,774,71
+Juan Pablo Vojvoda,787,64
+Juan Pablo Vojvoda,801,79
+Juan Pablo Vojvoda,826,64
+Juan Pablo Vojvoda,849,76
+Juan Pablo Vojvoda,865,63
+Juan Pablo Vojvoda,880,85
+Juan Pablo Vojvoda,912,69
+Juan Pablo Vojvoda,936,63
+Juan Pablo Vojvoda,948,72
+Juan Pablo Vojvoda,975,79
+Juan Pablo Vojvoda,996,59
+Juan Pablo Vojvoda,1007,82
+Juan Pablo Vojvoda,1027,73
+Juan Pablo Vojvoda,1065,75
+Juan Pablo Vojvoda,1083,73
+Juan Pablo Vojvoda,1089,83
+Juan Pablo Vojvoda,1119,74
+Juan Pablo Vojvoda,1133,67
+Juan Pablo Vojvoda,1154,71
+Juan Pablo Vojvoda,1167,89
+Juan Pablo Vojvoda,1206,76
+Juan Pablo Vojvoda,1229,76
+Juan Pablo Vojvoda,1245,68
+Juan Pablo Vojvoda,1260,85
+Juan Pablo Vojvoda,1292,86
+Juan Pablo Vojvoda,1316,70
+Juan Pablo Vojvoda,1328,78
+Juan Pablo Vojvoda,1355,79
+Juan Pablo Vojvoda,1376,59
+Juan Pablo Vojvoda,1387,83
+Juan Pablo Vojvoda,1407,73
+Juan Pablo Vojvoda,1445,84
+Juan Pablo Vojvoda,1463,76
+Juan Pablo Vojvoda,1469,84
+Juan Pablo Vojvoda,1499,75
+Juan Pablo Vojvoda,1513,80
+Juan Pablo Vojvoda,1534,85
+Juan Pablo Vojvoda,1586,76
+Juan Pablo Vojvoda,1609,84
+Juan Pablo Vojvoda,1696,87
+Juan Pablo Vojvoda,1708,78
+Juan Pablo Vojvoda,1735,84
+Juan Pablo Vojvoda,1756,82
+Juan Pablo Vojvoda,1787,73
+Juan Pablo Vojvoda,1879,75
+Juan Pablo Vojvoda,1893,89
+Juan Pablo Vojvoda,1903,45
+Juan Pablo Vojvoda,1935,66
+Juan Pablo Vojvoda,1948,45
+Juan Pablo Vojvoda,1958,69
+Juan Pablo Vojvoda,1977,45
+Juan Pablo Vojvoda,2007,71
+Juan Pablo Vojvoda,2035,60
+Juan Pablo Vojvoda,2039,63
+Juan Pablo Vojvoda,2059,9
+Juan Pablo Vojvoda,2079,58
+Juan Pablo Vojvoda,2098,64
+Juan Pablo Vojvoda,2111,61
+Juan Pablo Vojvoda,2129,45
+Juan Pablo Vojvoda,2152,56
+Juan Pablo Vojvoda,2180,51
+Juan Pablo Vojvoda,2191,24
+Juan Pablo Vojvoda,2211,63
+Juan Pablo Vojvoda,2241,71
+Juan Pablo Vojvoda,2266,45
+Lisca,15,62
+Lisca,395,63
+Lisca,775,63
+Lisca,1155,74
+Lisca,1535,74
+Lisca,1907,62
+Lisca,1921,45
+Luiz Felipe Scolari,97,45
+Luiz Felipe Scolari,117,6
+Luiz Felipe Scolari,145,64
+Luiz Felipe Scolari,158,45
+Luiz Felipe Scolari,169,64
+Luiz Felipe Scolari,187,69
+Luiz Felipe Scolari,221,45
+Luiz Felipe Scolari,230,45
+Luiz Felipe Scolari,477,66
+Luiz Felipe Scolari,497,61
+Luiz Felipe Scolari,525,65
+Luiz Felipe Scolari,538,83
+Luiz Felipe Scolari,549,64
+Luiz Felipe Scolari,567,72
+Luiz Felipe Scolari,601,45
+Luiz Felipe Scolari,610,45
+Luiz Felipe Scolari,857,66
+Luiz Felipe Scolari,877,61
+Luiz Felipe Scolari,905,74
+Luiz Felipe Scolari,918,83
+Luiz Felipe Scolari,929,74
+Luiz Felipe Scolari,947,72
+Luiz Felipe Scolari,981,63
+Luiz Felipe Scolari,990,70
+Luiz Felipe Scolari,1237,74
+Luiz Felipe Scolari,1257,70
+Luiz Felipe Scolari,1285,74
+Luiz Felipe Scolari,1298,89
+Luiz Felipe Scolari,1327,80
+Luiz Felipe Scolari,1361,75
+Luiz Felipe Scolari,1370,89
+Luiz Felipe Scolari,1637,70
+Luiz Felipe Scolari,1665,86
+Luiz Felipe Scolari,1707,80
+Luiz Felipe Scolari,2009,84
+Luiz Felipe Scolari,2029,74
+Luiz Felipe Scolari,2048,73
+Luiz Felipe Scolari,2056,17
+Luiz Felipe Scolari,2101,52
+Luiz Felipe Scolari,2112,45
+Luiz Felipe Scolari,2140,63
+Luiz Fernando Iubel,75,45
+Luiz Fernando Iubel,455,45
+Luiz Fernando Iubel,835,60
+Luiz Fernando Iubel,1215,70
+Luiz Fernando Iubel,1595,77
+Luiz Fernando Iubel,1913,62
+Luiz Fernando Iubel,1933,45
+Luiz Fernando Iubel,1946,56
+Luiz Fernando Iubel,1964,58
+Marcelo Cabo,309,45
+Marcelo Cabo,331,15
+Marcelo Cabo,336,33
+Marcelo Cabo,349,19
+Marcelo Cabo,378,45
+Marcelo Cabo,689,69
+Marcelo Cabo,711,62
+Marcelo Cabo,716,33
+Marcelo Cabo,729,45
+Marcelo Cabo,758,62
+Marcelo Cabo,1069,70
+Marcelo Cabo,1091,62
+Marcelo Cabo,1096,59
+Marcelo Cabo,1109,69
+Marcelo Cabo,1138,62
+Marcelo Cabo,1449,83
+Marcelo Cabo,1471,63
+Marcelo Cabo,1476,59
+Marcelo Cabo,1489,78
+Marcelo Cabo,1518,77
+Marcelo Cabo,1829,89
+Marcelo Cabo,1851,86
+Marcelo Cabo,1856,83
+Marcelo Cabo,1869,78
+Marcelo Cabo,1898,88
+Marcelo Cabo,2221,45
+Marcelo Cabo,2258,45
+Marcelo Cabo,2267,33
+Marcão,166,45
+Marcão,175,65
+Marcão,177,69
+Marcão,191,70
+Marcão,210,45
+Marcão,229,9
+Marcão,234,45
+Marcão,266,59
+Marcão,293,45
+Marcão,315,45
+Marcão,334,67
+Marcão,340,67
+Marcão,372,76
+Marcão,546,69
+Marcão,555,80
+Marcão,557,69
+Marcão,571,70
+Marcão,590,62
+Marcão,609,61
+Marcão,614,64
+Marcão,646,71
+Marcão,673,60
+Marcão,695,45
+Marcão,714,72
+Marcão,720,67
+Marcão,752,76
+Marcão,926,73
+Marcão,935,80
+Marcão,937,69
+Marcão,951,83
+Marcão,970,72
+Marcão,989,61
+Marcão,994,74
+Marcão,1026,71
+Marcão,1053,74
+Marcão,1075,71
+Marcão,1094,88
+Marcão,1100,82
+Marcão,1132,84
+Marcão,1306,86
+Marcão,1315,87
+Marcão,1317,86
+Marcão,1331,89
+Marcão,1350,72
+Marcão,1369,70
+Marcão,1374,74
+Marcão,1406,78
+Marcão,1433,78
+Marcão,1455,71
+Marcão,1474,88
+Marcão,1480,89
+Marcão,1512,84
+Marcão,1686,86
+Marcão,1697,86
+Marcão,1730,89
+Marcão,1749,81
+Marcão,1754,79
+Marcão,1786,78
+Marcão,1813,78
+Marcão,1835,82
+Marcão,1854,88
+Marcão,1892,89
+Marcão,2081,26
+Marcão,2102,67
+Marcão,2148,67
+Marcão,2155,67
+Marcão,2175,69
+Marcão,2181,45
+Marcão,2200,31
+Marcão,2225,45
+Marcão,2246,67
+Marcão,2260,45
+Marquinhos Santos,17,68
+Marquinhos Santos,31,14
+Marquinhos Santos,44,64
+Marquinhos Santos,56,64
+Marquinhos Santos,71,66
+Marquinhos Santos,102,45
+Marquinhos Santos,125,57
+Marquinhos Santos,141,75
+Marquinhos Santos,159,61
+Marquinhos Santos,172,59
+Marquinhos Santos,184,45
+Marquinhos Santos,209,65
+Marquinhos Santos,237,69
+Marquinhos Santos,280,57
+Marquinhos Santos,310,75
+Marquinhos Santos,321,27
+Marquinhos Santos,352,62
+Marquinhos Santos,377,65
+Marquinhos Santos,397,68
+Marquinhos Santos,411,68
+Marquinhos Santos,424,64
+Marquinhos Santos,436,69
+Marquinhos Santos,451,67
+Marquinhos Santos,482,74
+Marquinhos Santos,505,79
+Marquinhos Santos,521,81
+Marquinhos Santos,539,70
+Marquinhos Santos,552,60
+Marquinhos Santos,564,45
+Marquinhos Santos,589,78
+Marquinhos Santos,617,79
+Marquinhos Santos,660,72
+Marquinhos Santos,690,76
+Marquinhos Santos,701,45
+Marquinhos Santos,732,76
+Marquinhos Santos,757,75
+Marquinhos Santos,777,82
+Marquinhos Santos,791,69
+Marquinhos Santos,804,76
+Marquinhos Santos,816,83
+Marquinhos Santos,831,75
+Marquinhos Santos,862,74
+Marquinhos Santos,885,79
+Marquinhos Santos,901,81
+Marquinhos Santos,919,70
+Marquinhos Santos,932,88
+Marquinhos Santos,944,76
+Marquinhos Santos,969,87
+Marquinhos Santos,997,86
+Marquinhos Santos,1040,89
+Marquinhos Santos,1070,85
+Marquinhos Santos,1081,63
+Marquinhos Santos,1112,77
+Marquinhos Santos,1137,75
+Marquinhos Santos,1157,82
+Marquinhos Santos,1171,69
+Marquinhos Santos,1184,87
+Marquinhos Santos,1211,75
+Marquinhos Santos,1242,85
+Marquinhos Santos,1265,86
+Marquinhos Santos,1281,81
+Marquinhos Santos,1299,70
+Marquinhos Santos,1312,88
+Marquinhos Santos,1324,76
+Marquinhos Santos,1349,87
+Marquinhos Santos,1377,86
+Marquinhos Santos,1420,89
+Marquinhos Santos,1450,85
+Marquinhos Santos,1461,63
+Marquinhos Santos,1492,77
+Marquinhos Santos,1517,83
+Marquinhos Santos,1551,86
+Marquinhos Santos,1564,88
+Marquinhos Santos,1591,88
+Marquinhos Santos,1622,85
+Marquinhos Santos,1661,87
+Marquinhos Santos,1692,89
+Marquinhos Santos,1704,87
+Marquinhos Santos,1729,87
+Marquinhos Santos,1800,89
+Marquinhos Santos,1830,89
+Marquinhos Santos,1841,88
+Marquinhos Santos,1872,83
+Marquinhos Santos,1897,83
+Marquinhos Santos,1900,75
+Marquinhos Santos,1919,78
+Marquinhos Santos,1950,62
+Marquinhos Santos,1984,64
+Marquinhos Santos,1988,65
+Marquinhos Santos,2013,44
+Marquinhos Santos,2046,45
+Marquinhos Santos,2077,59
+Marquinhos Santos,2082,56
+Marquinhos Santos,2094,26
+Marquinhos Santos,2120,63
+Marquinhos Santos,2124,45
+Marquinhos Santos,2144,36
+Marquinhos Santos,2158,45
+Marquinhos Santos,2164,20
+Marquinhos Santos,2196,60
+Marquinhos Santos,2206,58
+Marquinhos Santos,2234,51
+Marquinhos Santos,2244,66
+Marquinhos Santos,2263,14
+Maurício Barbieri,11,62
+Maurício Barbieri,24,45
+Maurício Barbieri,47,58
+Maurício Barbieri,73,72
+Maurício Barbieri,87,48
+Maurício Barbieri,114,63
+Maurício Barbieri,129,66
+Maurício Barbieri,146,45
+Maurício Barbieri,174,70
+Maurício Barbieri,185,45
+Maurício Barbieri,216,74
+Maurício Barbieri,227,77
+Maurício Barbieri,242,26
+Maurício Barbieri,270,11
+Maurício Barbieri,276,45
+Maurício Barbieri,295,75
+Maurício Barbieri,311,64
+Maurício Barbieri,344,57
+Maurício Barbieri,379,64
+Maurício Barbieri,391,80
+Maurício Barbieri,404,62
+Maurício Barbieri,427,71
+Maurício Barbieri,453,83
+Maurício Barbieri,467,79
+Maurício Barbieri,494,63
+Maurício Barbieri,509,83
+Maurício Barbieri,526,62
+Maurício Barbieri,554,74
+Maurício Barbieri,565,67
+Maurício Barbieri,596,74
+Maurício Barbieri,607,77
+Maurício Barbieri,622,45
+Maurício Barbieri,650,45
+Maurício Barbieri,656,79
+Maurício Barbieri,675,81
+Maurício Barbieri,691,71
+Maurício Barbieri,724,72
+Maurício Barbieri,759,76
+Maurício Barbieri,784,62
+Maurício Barbieri,807,71
+Maurício Barbieri,833,89
+Maurício Barbieri,847,79
+Maurício Barbieri,874,72
+Maurício Barbieri,889,84
+Maurício Barbieri,906,62
+Maurício Barbieri,934,74
+Maurício Barbieri,945,67
+Maurício Barbieri,976,75
+Maurício Barbieri,1002,63
+Maurício Barbieri,1030,64
+Maurício Barbieri,1036,87
+Maurício Barbieri,1071,79
+Maurício Barbieri,1104,80
+Maurício Barbieri,1139,77
+Maurício Barbieri,1164,83
+Maurício Barbieri,1187,87
+Maurício Barbieri,1227,88
+Maurício Barbieri,1254,72
+Maurício Barbieri,1269,89
+Maurício Barbieri,1286,70
+Maurício Barbieri,1314,83
+Maurício Barbieri,1325,75
+Maurício Barbieri,1356,89
+Maurício Barbieri,1382,88
+Maurício Barbieri,1410,69
+Maurício Barbieri,1416,87
+Maurício Barbieri,1451,79
+Maurício Barbieri,1519,86
+Maurício Barbieri,1544,83
+Maurício Barbieri,1634,88
+Maurício Barbieri,1649,89
+Maurício Barbieri,1666,83
+Maurício Barbieri,1694,83
+Maurício Barbieri,1705,84
+Maurício Barbieri,1736,89
+Maurício Barbieri,1762,89
+Maurício Barbieri,1790,79
+Maurício Barbieri,1796,88
+Maurício Barbieri,1899,86
+Maurício Barbieri,1906,64
+Maurício Barbieri,1930,67
+Maurício Barbieri,1937,64
+Maurício Barbieri,1965,76
+Maurício Barbieri,1983,61
+Maurício Barbieri,1998,60
+Maurício Barbieri,2020,68
+Maurício Barbieri,2036,67
+Maurício Barbieri,2065,45
+Maurício Barbieri,2096,60
+Maurício Barbieri,2110,45
+Maurício Barbieri,2138,64
+Maurício Barbieri,2156,53
+Maurício Barbieri,2163,66
+Maurício Barbieri,2185,45
+Maurício Barbieri,2203,58
+Maurício Barbieri,2219,45
+Maurício Barbieri,2250,61
+Maurício Barbieri,2261,81
+Maurício Ferreira De Souza,351,27
+Maurício Ferreira De Souza,368,77
+Maurício Ferreira De Souza,731,27
+Maurício Ferreira De Souza,748,85
+Maurício Ferreira De Souza,1111,45
+Maurício Ferreira De Souza,1128,85
+Maurício Ferreira De Souza,1491,60
+Maurício Ferreira De Souza,1871,60
+Maurício Ferreira De Souza,2257,70
+Maurício Ferreira De Souza,2278,74
+Miguel Ángel Ramírez,9,72
+Miguel Ángel Ramírez,389,72
+Miguel Ángel Ramírez,769,77
+Miguel Ángel Ramírez,1149,83
+Miguel Ángel Ramírez,1529,83
+Miguel Ángel Ramírez,1914,45
+Mozart Batista,6,45
+Mozart Batista,386,64
+Mozart Batista,766,64
+Mozart Batista,1146,86
+Osmar Loss Vieira,29,51
+Osmar Loss Vieira,40,67
+Osmar Loss Vieira,409,66
+Osmar Loss Vieira,420,67
+Osmar Loss Vieira,789,66
+Osmar Loss Vieira,800,80
+Osmar Loss Vieira,1169,75
+Osmar Loss Vieira,1180,81
+Osmar Loss Vieira,1549,75
+Osmar Loss Vieira,1560,86
+Osmar Loss Vieira,1925,54
+Paulo Autuori,7,58
+Paulo Autuori,194,45
+Paulo Autuori,387,59
+Paulo Autuori,574,63
+Paulo Autuori,767,77
+Paulo Autuori,954,72
+Paulo Autuori,1147,85
+Paulo Autuori,1334,72
+Paulo Autuori,1527,86
+Paulo Autuori,1714,73
+Paulo Autuori,2119,69
+Pintado,155,34
+Pintado,181,45
+Pintado,193,45
+Pintado,218,45
+Pintado,226,45
+Pintado,246,66
+Pintado,252,45
+Pintado,535,37
+Pintado,561,45
+Pintado,573,45
+Pintado,598,45
+Pintado,606,62
+Pintado,626,74
+Pintado,632,45
+Pintado,915,45
+Pintado,941,54
+Pintado,953,45
+Pintado,978,65
+Pintado,986,73
+Pintado,1006,89
+Pintado,1012,70
+Pintado,1295,56
+Pintado,1321,74
+Pintado,1333,67
+Pintado,1358,71
+Pintado,1366,79
+Pintado,1386,89
+Pintado,1392,84
+Pintado,1675,71
+Pintado,1701,80
+Pintado,1713,73
+Pintado,1738,81
+Pintado,1746,79
+Pintado,1772,89
+Pintado,2045,45
+Pintado,2057,39
+Pintado,2067,56
+Pintado,2085,45
+Pintado,2104,45
+Pintado,2139,11
+Pintado,2171,45
+Renato Gaúcho,104,45
+Renato Gaúcho,121,59
+Renato Gaúcho,143,59
+Renato Gaúcho,150,63
+Renato Gaúcho,201,63
+Renato Gaúcho,219,45
+Renato Gaúcho,244,61
+Renato Gaúcho,260,56
+Renato Gaúcho,278,73
+Renato Gaúcho,290,59
+Renato Gaúcho,308,45
+Renato Gaúcho,326,23
+Renato Gaúcho,484,69
+Renato Gaúcho,501,80
+Renato Gaúcho,523,71
+Renato Gaúcho,530,76
+Renato Gaúcho,581,64
+Renato Gaúcho,599,72
+Renato Gaúcho,624,62
+Renato Gaúcho,640,73
+Renato Gaúcho,658,82
+Renato Gaúcho,670,65
+Renato Gaúcho,688,65
+Renato Gaúcho,706,45
+Renato Gaúcho,864,87
+Renato Gaúcho,881,80
+Renato Gaúcho,903,71
+Renato Gaúcho,910,76
+Renato Gaúcho,961,77
+Renato Gaúcho,979,80
+Renato Gaúcho,1004,73
+Renato Gaúcho,1020,73
+Renato Gaúcho,1038,87
+Renato Gaúcho,1050,86
+Renato Gaúcho,1068,65
+Renato Gaúcho,1086,45
+Renato Gaúcho,1244,87
+Renato Gaúcho,1261,80
+Renato Gaúcho,1290,76
+Renato Gaúcho,1341,77
+Renato Gaúcho,1359,80
+Renato Gaúcho,1384,88
+Renato Gaúcho,1400,89
+Renato Gaúcho,1418,87
+Renato Gaúcho,1430,86
+Renato Gaúcho,1448,77
+Renato Gaúcho,1466,45
+Renato Gaúcho,1641,88
+Renato Gaúcho,1670,87
+Renato Gaúcho,1721,89
+Renato Gaúcho,1739,80
+Renato Gaúcho,1764,89
+Renato Gaúcho,1798,87
+Renato Gaúcho,1810,87
+Renato Gaúcho,1828,82
+Renato Gaúcho,1846,59
+Renato Gaúcho,2012,63
+Renato Gaúcho,2030,73
+Renato Gaúcho,2062,82
+Renato Gaúcho,2068,62
+Renato Gaúcho,2089,23
+Renato Gaúcho,2107,60
+Renato Gaúcho,2127,65
+Renato Gaúcho,2136,66
+Renato Gaúcho,2166,45
+Renato Gaúcho,2187,62
+Renato Gaúcho,2199,66
+Renato Gaúcho,2214,34
+Renato Gaúcho,2232,69
+Renato Gaúcho,2237,45
+Roger Machado,13,61
+Roger Machado,34,65
+Roger Machado,57,58
+Roger Machado,67,68
+Roger Machado,93,18
+Roger Machado,109,69
+Roger Machado,393,75
+Roger Machado,414,77
+Roger Machado,437,80
+Roger Machado,447,68
+Roger Machado,473,75
+Roger Machado,489,69
+Roger Machado,773,81
+Roger Machado,794,84
+Roger Machado,817,80
+Roger Machado,827,76
+Roger Machado,853,76
+Roger Machado,869,69
+Roger Machado,1153,81
+Roger Machado,1174,84
+Roger Machado,1197,87
+Roger Machado,1207,76
+Roger Machado,1233,76
+Roger Machado,1249,75
+Roger Machado,1533,81
+Roger Machado,1554,85
+Roger Machado,1577,87
+Roger Machado,1629,75
+Roger Machado,1902,73
+Roger Machado,1924,61
+Roger Machado,1941,10
+Roger Machado,1949,23
+Roger Machado,1981,66
+Roger Machado,2000,45
+Roger Machado,2018,50
+Roger Machado,2042,63
+Roger Machado,2054,80
+Rogério Ceni,5,76
+Rogério Ceni,21,53
+Rogério Ceni,37,72
+Rogério Ceni,48,65
+Rogério Ceni,81,70
+Rogério Ceni,251,57
+Rogério Ceni,261,45
+Rogério Ceni,283,45
+Rogério Ceni,314,45
+Rogério Ceni,339,45
+Rogério Ceni,345,45
+Rogério Ceni,365,66
+Rogério Ceni,385,86
+Rogério Ceni,401,75
+Rogério Ceni,428,65
+Rogério Ceni,461,70
+Rogério Ceni,631,78
+Rogério Ceni,641,76
+Rogério Ceni,663,63
+Rogério Ceni,694,45
+Rogério Ceni,719,45
+Rogério Ceni,725,59
+Rogério Ceni,745,76
+Rogério Ceni,765,86
+Rogério Ceni,781,84
+Rogério Ceni,808,81
+Rogério Ceni,841,78
+Rogério Ceni,1011,78
+Rogério Ceni,1021,80
+Rogério Ceni,1043,63
+Rogério Ceni,1074,69
+Rogério Ceni,1099,59
+Rogério Ceni,1105,82
+Rogério Ceni,1125,82
+Rogério Ceni,1145,89
+Rogério Ceni,1161,88
+Rogério Ceni,1188,89
+Rogério Ceni,1391,86
+Rogério Ceni,1401,87
+Rogério Ceni,1423,79
+Rogério Ceni,1454,69
+Rogério Ceni,1479,81
+Rogério Ceni,1485,87
+Rogério Ceni,1505,82
+Rogério Ceni,1541,88
+Rogério Ceni,1771,86
+Rogério Ceni,1781,87
+Rogério Ceni,1803,86
+Rogério Ceni,1834,69
+Rogério Ceni,1859,82
+Rogério Ceni,1865,87
+Rogério Ceni,1885,82
+Rogério Ceni,1956,35
+Rogério Ceni,1975,56
+Rogério Ceni,1990,45
+Rogério Ceni,2170,11
+Rogério Ceni,2197,45
+Rogério Ceni,2205,54
+Rogério Ceni,2224,57
+Rogério Ceni,2255,45
+Rogério Ceni,2277,64
+Sylvinho,8,59
+Sylvinho,30,7
+Sylvinho,51,74
+Sylvinho,72,62
+Sylvinho,78,58
+Sylvinho,108,65
+Sylvinho,130,45
+Sylvinho,149,61
+Sylvinho,182,64
+Sylvinho,200,63
+Sylvinho,205,31
+Sylvinho,222,45
+Sylvinho,248,8
+Sylvinho,286,45
+Sylvinho,291,45
+Sylvinho,313,70
+Sylvinho,333,63
+Sylvinho,347,45
+Sylvinho,362,56
+Sylvinho,388,72
+Sylvinho,410,60
+Sylvinho,431,82
+Sylvinho,452,70
+Sylvinho,458,70
+Sylvinho,488,73
+Sylvinho,510,45
+Sylvinho,529,67
+Sylvinho,562,75
+Sylvinho,580,77
+Sylvinho,585,71
+Sylvinho,602,76
+Sylvinho,628,78
+Sylvinho,666,74
+Sylvinho,671,59
+Sylvinho,693,70
+Sylvinho,713,78
+Sylvinho,727,81
+Sylvinho,742,76
+Sylvinho,768,72
+Sylvinho,790,72
+Sylvinho,811,82
+Sylvinho,832,89
+Sylvinho,838,70
+Sylvinho,868,87
+Sylvinho,890,55
+Sylvinho,909,75
+Sylvinho,960,87
+Sylvinho,965,72
+Sylvinho,982,80
+Sylvinho,1008,83
+Sylvinho,1046,81
+Sylvinho,1051,74
+Sylvinho,1073,78
+Sylvinho,1093,88
+Sylvinho,1107,81
+Sylvinho,1122,88
+Sylvinho,1148,82
+Sylvinho,1191,86
+Sylvinho,1248,87
+Sylvinho,1270,69
+Sylvinho,1289,75
+Sylvinho,1345,77
+Sylvinho,1362,81
+Sylvinho,1388,83
+Sylvinho,1431,89
+Sylvinho,1453,79
+Sylvinho,1487,89
+Sylvinho,1502,89
+Sylvinho,1650,85
+Sylvinho,1725,78
+Sylvinho,1742,87
+Sylvinho,1833,84
+Sylvinho,1915,68
+Sylvinho,1920,78
+Sylvinho,1939,60
+Sylvinho,1957,58
+Sylvinho,1995,53
+Sylvinho,2005,45
+Sylvinho,2026,64
+Sylvinho,2040,77
+Sylvinho,2061,38
+Sylvinho,2069,64
+Sylvinho,2090,45
+Sylvinho,2116,63
+Sylvinho,2132,69
+Sylvinho,2161,55
+Sylvinho,2169,58
+Sylvinho,2202,45
+Sylvinho,2226,23
+Sylvinho,2242,57
+Sylvinho,2271,59
+Thiago Gomes Pacheco,1991,45
+Thiago Gomes Pacheco,2147,45
+Tiago Nunes,23,61
+Tiago Nunes,54,71
+Tiago Nunes,58,20
+Tiago Nunes,85,63
+Tiago Nunes,197,58
+Tiago Nunes,204,60
+Tiago Nunes,223,59
+Tiago Nunes,256,45
+Tiago Nunes,262,63
+Tiago Nunes,281,32
+Tiago Nunes,298,64
+Tiago Nunes,316,45
+Tiago Nunes,342,51
+Tiago Nunes,363,8
+Tiago Nunes,403,72
+Tiago Nunes,434,87
+Tiago Nunes,438,64
+Tiago Nunes,465,63
+Tiago Nunes,577,58
+Tiago Nunes,584,71
+Tiago Nunes,603,67
+Tiago Nunes,636,63
+Tiago Nunes,642,78
+Tiago Nunes,661,55
+Tiago Nunes,678,65
+Tiago Nunes,696,55
+Tiago Nunes,722,62
+Tiago Nunes,743,14
+Tiago Nunes,783,72
+Tiago Nunes,814,88
+Tiago Nunes,818,86
+Tiago Nunes,845,77
+Tiago Nunes,957,79
+Tiago Nunes,964,72
+Tiago Nunes,983,67
+Tiago Nunes,1016,72
+Tiago Nunes,1022,78
+Tiago Nunes,1041,59
+Tiago Nunes,1058,87
+Tiago Nunes,1076,65
+Tiago Nunes,1102,63
+Tiago Nunes,1123,14
+Tiago Nunes,1163,83
+Tiago Nunes,1198,86
+Tiago Nunes,1225,86
+Tiago Nunes,1337,79
+Tiago Nunes,1344,79
+Tiago Nunes,1363,88
+Tiago Nunes,1396,83
+Tiago Nunes,1402,84
+Tiago Nunes,1421,76
+Tiago Nunes,1438,89
+Tiago Nunes,1456,65
+Tiago Nunes,1482,75
+Tiago Nunes,1503,37
+Tiago Nunes,1543,83
+Tiago Nunes,1605,86
+Tiago Nunes,1717,89
+Tiago Nunes,1724,79
+Tiago Nunes,1776,83
+Tiago Nunes,1782,84
+Tiago Nunes,1801,76
+Tiago Nunes,1818,89
+Tiago Nunes,1836,84
+Tiago Nunes,1862,75
+Tiago Nunes,1883,75
+Tiago Nunes,1904,45
+Tiago Nunes,1936,45
+Tiago Nunes,1971,45
+Tiago Nunes,2087,61
+Tiago Nunes,2133,45
+Tiago Nunes,2151,45
+Tiago Nunes,2165,45
+Tiago Nunes,2174,70
+Tiago Nunes,2201,18
+Tiago Nunes,2223,53
+Tiago Nunes,2231,45
+Tiago Nunes,2251,63
+Tiago Nunes,2276,45
+Umberto Lourenço Louzer Filho ,18,18
+Umberto Lourenço Louzer Filho ,36,61
+Umberto Lourenço Louzer Filho ,64,45
+Umberto Lourenço Louzer Filho ,80,45
+Umberto Lourenço Louzer Filho ,100,67
+Umberto Lourenço Louzer Filho ,124,56
+Umberto Lourenço Louzer Filho ,136,82
+Umberto Lourenço Louzer Filho ,164,64
+Umberto Lourenço Louzer Filho ,398,45
+Umberto Lourenço Louzer Filho ,416,61
+Umberto Lourenço Louzer Filho ,444,45
+Umberto Lourenço Louzer Filho ,460,55
+Umberto Lourenço Louzer Filho ,480,67
+Umberto Lourenço Louzer Filho ,504,66
+Umberto Lourenço Louzer Filho ,516,82
+Umberto Lourenço Louzer Filho ,544,64
+Umberto Lourenço Louzer Filho ,778,45
+Umberto Lourenço Louzer Filho ,796,67
+Umberto Lourenço Louzer Filho ,824,77
+Umberto Lourenço Louzer Filho ,840,72
+Umberto Lourenço Louzer Filho ,860,75
+Umberto Lourenço Louzer Filho ,884,80
+Umberto Lourenço Louzer Filho ,896,82
+Umberto Lourenço Louzer Filho ,924,76
+Umberto Lourenço Louzer Filho ,1158,78
+Umberto Lourenço Louzer Filho ,1176,67
+Umberto Lourenço Louzer Filho ,1204,83
+Umberto Lourenço Louzer Filho ,1220,80
+Umberto Lourenço Louzer Filho ,1240,76
+Umberto Lourenço Louzer Filho ,1276,85
+Umberto Lourenço Louzer Filho ,1304,76
+Umberto Lourenço Louzer Filho ,1538,84
+Umberto Lourenço Louzer Filho ,1556,84
+Umberto Lourenço Louzer Filho ,1584,85
+Umberto Lourenço Louzer Filho ,1620,76
+Umberto Lourenço Louzer Filho ,1656,89
+Umberto Lourenço Louzer Filho ,1684,89
+Umberto Lourenço Louzer Filho ,1909,45
+Umberto Lourenço Louzer Filho ,1927,55
+Umberto Lourenço Louzer Filho ,1944,60
+Umberto Lourenço Louzer Filho ,1951,21
+Umberto Lourenço Louzer Filho ,1970,68
+Umberto Lourenço Louzer Filho ,1992,55
+Umberto Lourenço Louzer Filho ,2015,66
+Umberto Lourenço Louzer Filho ,2032,58
+Umberto Lourenço Louzer Filho ,2050,20
+Vágner Mancini,50,45
+Vágner Mancini,63,81
+Vágner Mancini,76,60
+Vágner Mancini,99,4
+Vágner Mancini,115,8
+Vágner Mancini,142,69
+Vágner Mancini,165,45
+Vágner Mancini,171,27
+Vágner Mancini,183,64
+Vágner Mancini,207,60
+Vágner Mancini,228,45
+Vágner Mancini,258,45
+Vágner Mancini,282,60
+Vágner Mancini,300,45
+Vágner Mancini,319,69
+Vágner Mancini,337,60
+Vágner Mancini,355,61
+Vágner Mancini,374,74
+Vágner Mancini,430,66
+Vágner Mancini,443,82
+Vágner Mancini,456,72
+Vágner Mancini,479,64
+Vágner Mancini,495,45
+Vágner Mancini,522,69
+Vágner Mancini,545,45
+Vágner Mancini,551,69
+Vágner Mancini,563,64
+Vágner Mancini,587,65
+Vágner Mancini,608,56
+Vágner Mancini,638,66
+Vágner Mancini,662,67
+Vágner Mancini,680,62
+Vágner Mancini,699,70
+Vágner Mancini,717,60
+Vágner Mancini,735,73
+Vágner Mancini,754,74
+Vágner Mancini,810,66
+Vágner Mancini,823,85
+Vágner Mancini,836,72
+Vágner Mancini,859,68
+Vágner Mancini,875,45
+Vágner Mancini,902,84
+Vágner Mancini,925,63
+Vágner Mancini,931,73
+Vágner Mancini,943,78
+Vágner Mancini,967,65
+Vágner Mancini,988,68
+Vágner Mancini,1018,74
+Vágner Mancini,1042,77
+Vágner Mancini,1060,72
+Vágner Mancini,1079,70
+Vágner Mancini,1097,65
+Vágner Mancini,1115,73
+Vágner Mancini,1190,77
+Vágner Mancini,1203,89
+Vágner Mancini,1216,87
+Vágner Mancini,1239,76
+Vágner Mancini,1255,69
+Vágner Mancini,1282,84
+Vágner Mancini,1305,71
+Vágner Mancini,1311,80
+Vágner Mancini,1323,84
+Vágner Mancini,1347,73
+Vágner Mancini,1368,80
+Vágner Mancini,1398,74
+Vágner Mancini,1422,77
+Vágner Mancini,1440,79
+Vágner Mancini,1459,84
+Vágner Mancini,1477,65
+Vágner Mancini,1495,78
+Vágner Mancini,1570,89
+Vágner Mancini,1596,87
+Vágner Mancini,1619,76
+Vágner Mancini,1635,76
+Vágner Mancini,1662,89
+Vágner Mancini,1685,71
+Vágner Mancini,1703,84
+Vágner Mancini,1727,79
+Vágner Mancini,1748,80
+Vágner Mancini,1778,80
+Vágner Mancini,1802,77
+Vágner Mancini,1820,79
+Vágner Mancini,1839,84
+Vágner Mancini,1857,72
+Vágner Mancini,1875,78
+Vágner Mancini,1968,31
+Vágner Mancini,1989,34
+Vágner Mancini,2017,35
+Vágner Mancini,2034,20
+Vágner Mancini,2055,19
+Vágner Mancini,2100,45
+Vágner Mancini,2103,61
+Vágner Mancini,2114,60
+Vágner Mancini,2137,72
+Vágner Mancini,2149,64
+Vágner Mancini,2172,56
+Vágner Mancini,2188,34
+Vágner Mancini,2192,59
+Vágner Mancini,2210,45
+Vágner Mancini,2230,67
+Vágner Mancini,2243,22
+Vágner Mancini,2262,54
